@@ -1,0 +1,42 @@
+{
+  "name": "kanbantoolz",
+  "author": {
+    "name": "Forhad Hossen Babu (FHB)",
+    "email": "forhadhossenbabu@gmail.com",
+    "url": "kanbantoolz.netlify.app"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "localforage": "1.4.0",
+    "react": "^15.6.1",
+    "react-dnd": "2.1.2",
+    "react-dnd-html5-backend": "2.1.2",
+    "react-dom": "^15.0.1",
+    "react-redux": "5.0.5",
+    "react-scripts": "^5.0.1",
+    "redux": "3.5.2",
+    "uuid": "2.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@types/react-dnd-html5-backend": "^3.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
