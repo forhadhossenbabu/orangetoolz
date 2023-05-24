@@ -4,8 +4,8 @@ services:
   client-app:
     build:
       context: .
-    image: assettwin_frontend
-    container_name: assettwin_fc
+    image: orangetoolz_frontend
+    container_name: orangetoolz_fc
     ports:
       - "3000:3000"
     command: >
