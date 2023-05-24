@@ -5,7 +5,7 @@ docker-compose up --build
 ```
 
 The Project is deployed using netlify and live in this url:
-[Orangetoolz Task Manager](https://https://orangetool.netlify.app/)
+[Orangetoolz Task Manager](https://orangetool.netlify.app/)
 
 ![Alt text](./Orange_toolz.png "Orange_toolz")
 
