@@ -12,3 +12,6 @@ The Project is deployed using netlify and live in this url:
 ![Alt text](./Orange_toolz.png "Orange_toolz")
 
 ![Alt text](./Orange_toolz_2.png "Orange_toolz")
+
+Recent Contribution History
+![Alt text](./Recently_Contributed.png "Orange_toolz")
