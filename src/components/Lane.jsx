@@ -52,7 +52,7 @@ const Lane = (props) => {
           onMoveNote={onMoveNote}
         />
         <button className="add-note" onClick={handleCreateNote}>
-          + TASK
+          + NOTE
         </button>
       </div>
     )
